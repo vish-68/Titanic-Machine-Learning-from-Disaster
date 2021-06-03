@@ -1,0 +1,13 @@
+DATA INSPECTION
+
+PassengerID : ID of the Passenger.
+Survived : No (0) Yes (1).
+Pclass : Passenger’s class.
+Name : Name of the Passenger.
+Sex : Gender of the Passenger.
+SibSp : Number of Siblings / Spouses aboard.
+Parch : Number of Parents / Children aboard.
+Ticket : Ticket number.
+Fare : Fare of the Ticket.
+Cabin : Cabin number.
+Embarked : Port of embarkation (C = Cherbourg; Q = Queenstown; S = Southampton)
